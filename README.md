@@ -12,8 +12,6 @@ care and feeding of factors.
 
 ## Installation
 
-## Installation
-
 You can install the development version of foofactorsml with:
 
 ``` r
